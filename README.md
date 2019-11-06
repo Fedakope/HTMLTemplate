@@ -1,5 +1,6 @@
-# HTMLTemplate
+# HTML Template
 Hi ! 
+
 This repo is a HTML template that you can use for your projects.
 The index.html use Javascript and jQuery to load element in the DOM, in order to keep a clean & clear index.html.
 
