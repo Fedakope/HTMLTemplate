@@ -12,7 +12,7 @@ It includes basic stuff and dependencies :
 
 And some things left to do :
 - [x] Implement basic stuff
-- [ ] Test jQuery HTML import 
+- [x] Test jQuery HTML import 
 - [ ] Improve readme.md
 - [ ] Lot of other stuffs
 
