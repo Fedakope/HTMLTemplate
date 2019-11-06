@@ -11,6 +11,7 @@ It includes basic stuff and dependencies :
 - FontAwesome
 - SweetAlert2
 
+And some things left to do :
 
 - [x] Implement basic stuff
 - [ ] Test jQuery HTML import 
