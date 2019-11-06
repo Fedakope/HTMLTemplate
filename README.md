@@ -5,14 +5,12 @@ This repo is a HTML template that you can use for your projects.
 The index.html use Javascript and jQuery to load element in the DOM, in order to keep a clean & clear index.html.
 
 It includes basic stuff and dependencies :
-
 - Bootstrap
 - jQuery
 - FontAwesome
 - SweetAlert2
 
 And some things left to do :
-
 - [x] Implement basic stuff
 - [ ] Test jQuery HTML import 
 - [ ] Improve readme.md
